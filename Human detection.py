@@ -34,3 +34,4 @@ for label in labels:
     i+=1
 
 print("0".join(new_sentence))
+
